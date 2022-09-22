@@ -1,3 +1,5 @@
+package atividades;
+
 public class Tabuada {
     public static void main(String[] args){
          int multiplicador = 5;
