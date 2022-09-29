@@ -14,14 +14,10 @@ public class TerceiraAula {
 
         switch (linguagem) {
             case "JAVA":
-                System.out.println("É uma linguagem compilada.");
-                break;
             case "KOTLIN":
                 System.out.println("É uma linguagem compilada.");
                 break;
             case "PHP":
-                System.out.println("É uma linguagem interpretada.");
-                break;
             case "JAVASCRIPT":
                 System.out.println("É uma linguagem interpretada.");
                 break;
